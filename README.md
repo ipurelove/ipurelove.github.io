@@ -1,2 +1,0 @@
-# pure
-hello world
