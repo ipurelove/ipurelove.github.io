@@ -1,2 +1,2 @@
-# ipurelove.github.io
+# find-pure-love
 hello world
